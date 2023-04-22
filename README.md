@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shreyas
 - 👀 I’m interested in Linux, ML, Python, RESTful Webservices
-- 🌱 I’m currently learning Cloud computing
+- 🌱 I’m currently learning Nothing
 - 💞️ I’m looking to collaborate on Rest APIs, Linux, Python
 - 📫 How to reach me : shreyas.raviprakash@gmail.com
 
